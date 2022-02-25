@@ -1,6 +1,6 @@
-# emoji-cat-selector
+# Emojis en català!
 
-Script que et permet tenir un selector d'emojis en català !
+Script que et permet tenir un selector d'emojis en català en el teu ordinador linux/mac !
 
 ![image](https://user-images.githubusercontent.com/75248426/155761589-5473d108-9248-4885-8e0a-5026e279727a.png)
 
