@@ -13,6 +13,3 @@ sleep 0.2
 
 # Escriure emoji on hi havia el focus
 xdotool type $emoji
-
-# Copiem emoji en el porta-retalls
-echo $emoji | xclip -selection clipboard
