@@ -8,7 +8,7 @@ if [ ! -f "$file" ]; then
 fi
 
 # Seleccionar emoji
-emoji=$(cat $file | rofi -dmenu -show-icons | awk {'print $1'})
+emoji=$(cat $file | rofi -dmenu -show-icons -i | awk {'print $1'})
 sleep 0.2
 
 # Escriure emoji on hi havia el focus
